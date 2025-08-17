@@ -25,4 +25,4 @@
 
 
 ## Author
-* **Ann G.** ⊂(・﹏・⊂) [Simplify JS](http://simplifyjs.com)
+* **RoseCode** ⊂(・﹏・⊂) 
